@@ -1,0 +1,90 @@
+.title
+{
+
+   text-align: center; color: black;
+   text-transform: uppercase;
+   font-size: 35px;
+   
+}
+
+#ST1
+{
+
+   text-align: center; color: 4CAF50;
+   text-transform: uppercase;
+   font-size: 35px;
+}
+
+body
+{
+
+background-image: url(https://wallpaperaccess.com/full/1095646.jpg);
+background-repeat: no-repeat ;
+background-size: cover;
+}
+
+ul
+{
+   
+    list-style-type: none;
+    border: 1px ; 
+    border-color: #e7e7e7;
+    border-style: solid;
+    overflow: hidden;
+    
+    
+    }
+li
+{
+ float:left ;
+}
+
+a
+{
+
+    text-decoration: none;
+    color :008BCA;
+
+}
+
+li a
+{
+
+    display: block;
+    color: #f3521f;
+    padding-left:  14px; 
+    padding-right: 14px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+.navright
+{
+
+    float: right;
+}
+li a:hover
+{
+
+    background-color: slategray;
+}
+
+li a.active
+{
+
+background-color: steelblue;
+color:white;
+}
+dev
+{
+border : 7px ;
+border-style: dotted;
+border-radius: 30px;
+box-shadow: 30px 25px 30px red;
+background-image: linear-gradient(red,yellow)
+}
+table
+{
+width: 100%;
+border:1px;
+
+}
